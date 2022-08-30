@@ -1,0 +1,9 @@
+body{
+    flex-wrap: wrap;
+    background: darkgray;
+    
+}
+img{    
+    width: 33%;
+    height: 25%;
+}
