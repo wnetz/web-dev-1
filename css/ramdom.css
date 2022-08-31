@@ -1,0 +1,14 @@
+body{
+    background: linear-gradient(aqua, blueviolet);    
+}
+p{
+    width: 500;
+}
+.entry{
+    display:flex;
+    border-top: 2px black double;
+    border-bottom: 2px black double;
+    border-radius: 100%;
+    padding: 5px;    
+    justify-content: center;
+}
