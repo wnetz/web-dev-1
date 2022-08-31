@@ -1,19 +1,7 @@
-body {
-    margin: 20px;    
-    font-family:Verdana, Geneva, Tahoma, sans-serif;
+body{    
+    background-image:url("https://picsum.photos/500");
 }
-
-.avatar {
-    width: 150px;
-}
-.card{
-    background:lightblue;
-    border-bottom: 10px solid plum;
-    display: flex;
-    justify-content: space-around;
-    margin: auto;
-    padding: 20px;
-    text-align: center;
-    width: 400;
-    text-shadow: 10px;
+ul{
+    background-color: gray;
+    width: 100;
 }
